@@ -1,0 +1,11 @@
+# System / user files
+AppData/
+.cache/
+.vscode/
+
+# MkDocs
+site/
+
+# Python
+__pycache__/
+*.pyc

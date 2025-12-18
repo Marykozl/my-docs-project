@@ -1,0 +1,17 @@
+# Загальна інформація про проєкт
+site_name: Мій перший сайт на MkDocs
+site_author: Марина Козлюк
+site_description: "Навчальний сайт, створений з використанням MkDocs."
+
+# Налаштування зовнішнього вигляду
+theme:
+  name: material
+  language: uk
+
+# Навігаційне меню
+nav:
+  - Головна: index.md
+  - Посібник користувача:
+      - Встановлення: guide/installation.md
+      - Приклади використання: guide/usage.md
+  - Про проєкт: about.md
